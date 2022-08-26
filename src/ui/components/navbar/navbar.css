@@ -23,7 +23,7 @@
     /* background-color: aqua; */
 }
 
-#navbar #navUrl ul{
+#navbar #navUrl #list{
     display: flex;
     justify-content: space-between;
 }
