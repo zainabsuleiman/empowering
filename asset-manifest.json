@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Empowering-Women/static/css/main.5e838d3e.css",
+    "main.js": "/Empowering-Women/static/js/main.0af9a478.js",
+    "static/media/logo.png": "/Empowering-Women/static/media/logo.a98cbc0c23fb2de4f6d1.png",
+    "index.html": "/Empowering-Women/index.html",
+    "main.5e838d3e.css.map": "/Empowering-Women/static/css/main.5e838d3e.css.map",
+    "main.0af9a478.js.map": "/Empowering-Women/static/js/main.0af9a478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e838d3e.css",
+    "static/js/main.0af9a478.js"
+  ]
+}
