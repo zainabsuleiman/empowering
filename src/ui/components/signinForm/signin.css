@@ -1,0 +1,41 @@
+#signin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: aqua; */
+    width: 450px;
+    padding: 20px 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(225, 231, 225);
+}
+#signin h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: var(--primaryColor);
+}
+#signin div{
+    display: flex;
+    flex-direction: column;
+    margin: 3px;
+    width: 100%;
+}
+#signin label{
+    font-size: 12px;
+    margin: 5px 0;
+}
+#signin input,#signin textarea{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid var(--borderColor);
+    outline: none;
+}
+#signin button{
+    width: 150px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: var(--primaryColor);
+}
