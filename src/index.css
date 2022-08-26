@@ -1,7 +1,13 @@
 :root{
+<<<<<<< HEAD
   --primaryColor: rgb(172, 199, 53);
   --bgColor: #ffff;
   --borderColor: rgb(218, 225, 230);
+=======
+  --primaryColor: #ffff;
+  --bgColor: #ffff;
+  
+>>>>>>> 849cabf25d05fc5bd68a93285aa4f746e1e45cbd
 }
 
 *{
@@ -9,6 +15,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 html,body{
   width: 100%;
   height: 100%;
@@ -17,6 +24,9 @@ html,body{
   width: 100%;
   height: 100%;
 }
+=======
+
+>>>>>>> 849cabf25d05fc5bd68a93285aa4f746e1e45cbd
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
