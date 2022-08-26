@@ -12,12 +12,13 @@ function Navbar() {
         </div>
         <div id="navUrl">
             <ul>
-                <li><a href="">Company</a></li>
-                <li><a href="">Investors</a></li>
-                <li><a href="">Career</a></li>
-                <li><a href="">Register</a></li>
-                <li><a href="">Donate</a></li>
-                <li><a href="">Login</a></li>
+            
+                <li><a href="/">Company</a></li>
+                <li><a href="/">Investors</a></li>
+                <li><a href="/">Career</a></li>
+                <li><a href="/">Register</a></li>
+                <li><a href="/">Donate</a></li>
+                <li><a href="/">Login</a></li>
                 {/* <h1>hello world navbar</h1> */}
             </ul>
         </div>
