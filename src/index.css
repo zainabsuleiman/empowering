@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 :root{
 
-  --primaryColor: rgb(172, 199, 53);
+  --primaryColor: hsl(162, 50%, 50%);
   --bgColor: #ffff;
   --borderColor: rgb(218, 225, 230);
 
   /* --primaryColor: #ffff; */
   --bgColor: #ffff;
+  --font:'Nunito', sans-serif; ;
   
 
 }
