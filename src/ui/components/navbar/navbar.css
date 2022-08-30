@@ -39,6 +39,7 @@
 #navbar li a{
     text-decoration: none;
     color: var(--primaryColor);
+    font-family: var(--font);
 }
 
 #navbar li:hover{
