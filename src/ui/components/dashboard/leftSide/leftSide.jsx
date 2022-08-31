@@ -1,14 +1,16 @@
 import "./leftSide.css"
-import Logo from "../../logo/logo"
+// import Logo from "../../logo/logo"
 import woman from "../../../resources/woman.jpg"
 import { MdDashboard } from "react-icons/md"
 import { AiOutlineFundProjectionScreen } from "react-icons/ai"
 import { FcCalendar,FcViewDetails } from "react-icons/fc"
-// import { IoAnalytics } from "react-icons/io"
 import { IoMdSettings,IoMdNotifications } from "react-icons/io"
-function LeftSide() {
+
+function LeftSide(props) {
+
   return (
-    <div id="leftSide">
+
+    <div className="leftSide" >
       <div id="leftHeader">
         {/* <span id="logo"><Logo /></span> */}
         <span id="img"><img src={woman} alt="" /></span>

@@ -2,6 +2,7 @@
 :root{
 
   --primaryColor: hsl(162, 50%, 50%);
+  --secondaryColor:rgb(236, 248, 247);
   /* --primaryColor: */
   --bgColor: #ffff;
   --borderColor: rgb(218, 225, 230);
